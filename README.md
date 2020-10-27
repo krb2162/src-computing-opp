@@ -1,5 +1,5 @@
 # Example application using [`next-iron-session`](https://github.com/vvo/next-iron-session)
-
+HELLO THIS IS KATIE
 This example creates an authentication system that uses a **signed and encrypted cookie to store session data**. It relies on [`next-iron-session`](https://github.com/vvo/next-iron-session).
 
 It uses current best practices for authentication in the Next.js ecosystem.
